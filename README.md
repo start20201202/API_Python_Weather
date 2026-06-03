@@ -4,7 +4,7 @@ https://datastudio.google.com/reporting/5585a210-7a66-464e-b90d-41002d452930/pag
 
 https://docs.google.com/spreadsheets/d/1KjuLGQWB8Yvy8gX9SyXRfpAH7P23xF_ncEmMKJ61GvU/edit?gid=0#gid=0
 
-Відкрийте Планувальник завдань
+Відкрийте Планувальник завдань Task Scheduler
 
 Натисніть Win + R → введіть taskschd.msc → Enter
 
